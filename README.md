@@ -15,5 +15,6 @@ Requirements will be:
 https://chrome.google.com/webstore/detail/vudu-catalog/bnlpiockcfehbfbdcegahemgmjfkdopc
 6. Emby Media server webhook plugin
 7. Roku streaming device if you want to have emby launch you to the movie within Roku
+8. Emby media server running on a flavor of Linux.  (This is being developed on CentOS 7)
 
 I hope to have future releases no longer need the Chrome requirement, but I want to have a working release for everyone first.
