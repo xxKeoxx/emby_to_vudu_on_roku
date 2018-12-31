@@ -3,8 +3,7 @@ This repo will enable emby to track which vudu movies you own.
 
 This repo is not ready for use yet.
 
-When this project is complete you will be able to track all of your vudu movies in emby
-If you are using a roku, selecting play on a movie within emby will launch the roku app directly to the movie.
+When this project is complete you will be able to track all of your vudu movies in emby.  If you are using a roku, selecting play on a movie within emby will launch the roku app directly to the movie.
 
 Requirements will be:
 1. Python 2.7.5+
