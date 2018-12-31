@@ -5,10 +5,13 @@ import requests
 import sys
 
 pp = pprint.PrettyPrinter(indent=4)
-USERID = "be39ad35325b4ae892af48411b551f07"
-HOSTADDR = "http://192.168.1.43:8096"
-API_KEY = "edd2dd1347c04728bd584347f9a57f1c"
-ENDPOINT = "/emby/Users/" + USERID + "/Items?ParentId=a5acbe5bec1f4ebaf895abbe4a59a8a5&api_key=" + API_KEY
+EMBYSVRIP = "" #Need to add your Emby Server IP here
+USERID = "" #Need to add your own emby ID here
+API_KEY = "" #Need to add your Emby API Key here
+EMBYLIBID = "" #Need to add your Emby Library Parent ID here
+HOSTADDR = "http://" + EMBYSVRIP + ":8096"
+API_KEY = "" #Need to add your Emby API Key here
+ENDPOINT = "/emby/Users/" + USERID + "/Items?" + EMBYLIBID + "&api_key=" + API_KEY
 URL = HOSTADDR + ENDPOINT
 
 r = requests.get(url = URL)
