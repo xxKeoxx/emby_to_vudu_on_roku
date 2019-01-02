@@ -8,7 +8,8 @@ When this project is complete you will be able to track all of your vudu movies 
 Requirements will be:
 1. Python 2.7.5+
 2. requests module for python
-3. webserver of choice
+3. hubitat home automation hub
+https://hubitat.com/
 4. Chrome Web Browser
 5. This plugin for Chrome:
 
@@ -21,3 +22,4 @@ https://chrome.google.com/webstore/detail/vudu-catalog/bnlpiockcfehbfbdcegahemgm
 https://emby.media/
 
 I hope to have future releases no longer need the Chrome requirement, but I want to have a working release for everyone first.
+Note:  Hopefully future releases will not Require hubitat, I just had an app on there that would give me an MVP
