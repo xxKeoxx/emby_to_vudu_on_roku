@@ -9,7 +9,9 @@ Requirements will be:
 1. Python 2.7.5+
 2. requests module for python
 3. hubitat home automation hub
+
 https://hubitat.com/
+
 4. Chrome Web Browser
 5. This plugin for Chrome:
 
