@@ -25,3 +25,6 @@ https://emby.media/
 
 I hope to have future releases no longer need the Chrome requirement, but I want to have a working release for everyone first.
 Note:  Hopefully future releases will not Require hubitat, I just had an app on there that would give me an MVP
+
+
+Note:  I've abandonded development on this project as I no longer use emby.
